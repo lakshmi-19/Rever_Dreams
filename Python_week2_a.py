@@ -1,3 +1,4 @@
+'''to multiplies all the items in a list'''
 def multiply_list(items):
     tot = items[0]
     for x in items:
