@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#grad1 {
+  height: 200px;
+  background-image: linear-gradient(red, white, blue);
+}
+</style>
+</head>
+<body>
+
+<h3>Linear Gradient - Top to Bottom</h3>
+<p>This linear gradient starts at the top. It starts red, transitioning to yellow, then to blue:</p>
+
+<div id="grad1"></div>
+</body>
+</html>
