@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+#main {
+  width: 700px;
+  height: 300px;
+  border: 1px solid #c3c3c3;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+}
+
+#main div {
+  width: 700px;
+  height: 300px;
+}
+</style>
+</head>
+<body>
+<div id="main">
+  <div style="background-color:coral;"></div>
+  <div style="background-color:lightblue;"></div>
+  <div style="background-color:pink;"></div>
+</div>
+</body>
+</html>
